@@ -534,9 +534,7 @@ svg {
       transition: opacity 0.25s;
     }
 
-    .image__overlay:hover {
-      opacity: 1;
-    }
+  
 
     .item2 {
       background-color: #e84c3d;
